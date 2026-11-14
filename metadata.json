@@ -1,0 +1,6 @@
+{
+  "name": "Wude Mart",
+  "description": "Wude Mart Ethiopian online shopping marketplace with ETB pricing, order tracking, and payment proof upload.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

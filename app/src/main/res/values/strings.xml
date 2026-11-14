@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Wude Mart</string>
+    <string name="tagline_ethiopic">ውዴ ማርት • Ethiopia Marketplace</string>
+    <string name="nav_home">Shop</string>
+    <string name="nav_categories">Explore</string>
+    <string name="nav_cart">Cart</string>
+    <string name="nav_orders">Orders</string>
+    <string name="nav_profile">Account</string>
+    <string name="search_placeholder">Search products in Wude Mart…</string>
+    <string name="offline_banner">You are offline. Showing cached items where available.</string>
+    <string name="currency_suffix">ብር</string>
+    <string name="currency_code">ETB</string>
+</resources>
